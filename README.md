@@ -5,4 +5,4 @@ The player who succeeds in placing three of their marks in a horizontal, vertica
 
 ![Tic-Tac-Toe](https://user-images.githubusercontent.com/96368265/200114900-af50a911-5d75-42a9-8fbb-d57ca1a7d594.png)
 
-[Click Here](itznehakumari4.github.io/Tic-Tac-Toe/) to view game.
+[Click Here](https://itznehakumari4.github.io/Tic-Tac-Toe/) to view game.
